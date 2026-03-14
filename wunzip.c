@@ -1,5 +1,5 @@
 //
-// Created by J.Dovala on 4/10/22.
+// Created a on 4/10/22.
 //wunzip decmpresses a file
 //c3500
 //
