@@ -1,5 +1,5 @@
 //
-// Created by J.Dovala on 4/6/22.
+// Created  on 4/6/22.
 //wzip compresses a file
 //c3500
 //
