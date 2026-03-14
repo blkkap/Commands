@@ -1,5 +1,5 @@
 //
-// Created by J.Dovala on 4/1/22.
+
 //wcat prints out the whole file
 //c3500
 //
