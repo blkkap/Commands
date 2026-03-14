@@ -1,5 +1,5 @@
 //
-// Created by J.Dovala on 4/1/22.
+// Created  on 4/1/22.
 //wgrep searches each line for given keyword
 //c3500
 //
